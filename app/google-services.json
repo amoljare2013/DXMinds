@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949939852484",
+    "firebase_url": "https://dxminds-e6cdf.firebaseio.com",
+    "project_id": "dxminds-e6cdf",
+    "storage_bucket": "dxminds-e6cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949939852484:android:7d667b10064112d9b6a591",
+        "android_client_info": {
+          "package_name": "com.amol.jare.dxminds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949939852484-5b95l5reihmfo4gq07fcvis3t8v3p4sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VYEOFUOS_vCsQSW3usVUpnWfuVJVL-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949939852484-5b95l5reihmfo4gq07fcvis3t8v3p4sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
